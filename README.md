@@ -1,0 +1,1 @@
+Bu proje redux ve tailwind kullanılarak yapılan basit bir proje örneğidir.
